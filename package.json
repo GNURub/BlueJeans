@@ -1,8 +1,9 @@
 {
   "name": "BlueJeans",
   "theme": "syntax",
-  "version": "0.1.3",
-  "description": "Modern theme for JS, CSS, HTML.",
+  "version": "0.1.4",
+  "private": false,
+  "description": "Modern syntax theme for JS, CSS, HTML.",
   "repository": "https://github.com/ruben96/BlueJeans",
   "license": "MIT",
   "engines": {
