@@ -1,7 +1,7 @@
 BlueJeans
 =========
 
-#### A Modern theme for Atom.IO
+#### A Modern syntax theme for Atom.IO
 -------------------------------
 
 Perfect for use with [seti-ui] skin.
