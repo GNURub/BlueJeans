@@ -6,7 +6,7 @@ BlueJeans
 
 Perfect for use with [seti-ui] skin.
 
-![BlueJeans](http://pix.toile-libre.org/upload/original/1410629184.png)
+![BlueJeans](http://pix.toile-libre.org/upload/original/1410643605.png)
 
 License
 ----

@@ -1,7 +1,7 @@
 {
   "name": "BlueJeans",
   "theme": "syntax",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "private": false,
   "description": "Modern syntax theme for JS, CSS, HTML.",
   "repository": "https://github.com/ruben96/BlueJeans",
